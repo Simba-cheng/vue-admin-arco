@@ -1,5 +1,5 @@
 // eslint-disable-next-line @typescript-eslint/no-var-requires
-const path = require('path');
+const path = require('path')
 
 module.exports = {
   root: true,
@@ -24,7 +24,6 @@ module.exports = {
     'plugin:@typescript-eslint/recommended',
     'plugin:import/recommended',
     'plugin:import/typescript',
-    'plugin:vue/vue3-recommended',
     'plugin:prettier/recommended',
   ],
   settings: {
@@ -42,10 +41,6 @@ module.exports = {
     'vue/singleline-html-element-content-newline': 0,
     'vue/max-attributes-per-line': 0,
     // Vue: Add extra rules
-    'vue/custom-event-name-casing': [2, 'camelCase'],
-    'vue/no-v-text': 1,
-    'vue/padding-line-between-blocks': 1,
-    'vue/require-direct-export': 1,
     'vue/multi-word-component-names': 0,
     // Allow @ts-ignore comment
     '@typescript-eslint/ban-ts-comment': 0,
@@ -66,5 +61,9 @@ module.exports = {
     'no-param-reassign': 0,
     'prefer-regex-literals': 0,
     'import/no-extraneous-dependencies': 0,
+    'vue/require-valid-default-prop': 0,
+    '@typescript-eslint/no-unused-vars': 0,
+    'vue/attribute-hyphenation': 0,
+    '@typescript-eslint/ban-types': 0,
   },
-};
+}

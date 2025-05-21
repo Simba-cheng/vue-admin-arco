@@ -145,7 +145,7 @@
               </a-space>
             </a-doption>
             <a-doption>
-              <a-space @click="open('/vue-admin-beautiful-element')">
+              <a-space @click="open('/vue-admin-better')">
                 <icon-tag />
                 <span>admin better 开源版</span>
               </a-space>
@@ -233,10 +233,10 @@ const switchRoles = async () => {
 }
 const toggleDrawerMenu = inject('toggleDrawerMenu') as () => void
 const switchGit = () => {
-  window.open('https://github.com/chuzhixin/vue-admin-arco')
+  window.open('https://github.com/zxwk1998/vue-admin-arco')
 }
 const open = (val: string) => {
-  window.open(`https://vue-admin-beautiful.com/${val}`)
+  window.open(`https://vuejs-core.cn/${val}`)
 }
 </script>
 
@@ -247,7 +247,12 @@ const open = (val: string) => {
   height: 100%;
   background-color: var(--color-bg-2);
   border-bottom: 1px solid var(--color-border);
-  width: calc(100% - 250px);
+  position: fixed;
+  top: 0;
+  right: 0;
+  left: 0;
+  height: 60px;
+  z-index: 99;
 }
 
 .left-side {

@@ -11,27 +11,27 @@
 
 <br />
 
-[![stars](https://img.shields.io/github/stars/chuzhixin/vue-admin-arco?style=flat-square&logo=GitHub)](https://github.com/chuzhixin/vue-admin-arco)
+[![stars](https://img.shields.io/github/stars/zxwk1998/vue-admin-arco?style=flat-square&logo=GitHub)](https://github.com/zxwk1998/vue-admin-arco)
 [![star](https://gitee.com/chu1204505056/vue-admin-arco/badge/star.svg?theme=gray)](https://gitee.com/chu1204505056/vue-admin-arco)
-[![license](https://img.shields.io/github/license/chuzhixin/vue-admin-arco?style=flat-square)](https://en.wikipedia.org/wiki/MIT_License)
+[![license](https://img.shields.io/github/license/zxwk1998/vue-admin-arco?style=flat-square)](https://en.wikipedia.org/wiki/MIT_License)
 
 </div>
 
 ## 🔗 免费演示地址
 
-- [🚀 Vue Admin Arco 演示地址（vue3.x + vite 4.x + arco-design 2.x 免费版本）](https://vue-admin-beautiful.com/vue-admin-arco)
+- [🚀 Vue Admin Arco 演示地址（vue3.x + vite 4.x + arco-design 2.x 免费版本）](https://vuejs-core.cn/vue-admin-arco)
 
 ## 🔗 付费演示地址
 
-- [🚀 Vue Admin Pro 演示地址（vue2.x + element-ui 2.x 付费版本，支持 PC、平板、手机）](https://vue-admin-beautiful.com/admin-pro/)
+- [🚀 Vue Admin Pro 演示地址（vue2.x + element-ui 2.x 付费版本，支持 PC、平板、手机）](https://vuejs-core.cn/admin-pro/)
 
-- [🚀 Vue Admin Plus 演示地址（vue3.x + element-plus 2.x 付费版本，支持 PC、平板、手机）](https://vue-admin-beautiful.com/admin-plus/)
+- [🚀 Vue Admin Plus 演示地址（vue3.x + element-plus 2.x 付费版本，支持 PC、平板、手机）](https://vuejs-core.cn/admin-plus/)
 
-- [🚀 Vue Shop Vite 演示地址（vue3.x + vite 5.x + element-plus 2.x 付费版本，支持 PC、平板、手机）](https://vue-admin-beautiful.com/shop-vite/)
+- [🚀 Vue Shop Vite 演示地址（vue3.x + vite 5.x + element-plus 2.x 付费版本，支持 PC、平板、手机）](https://vuejs-core.cn/shop-vite/)
 
-- [📌 Vue Admin Pro 及 Vue Admin Plus 购买地址](https://vue-admin-beautiful.com/authorization/)
+- [📌 Vue Admin Pro 及 Vue Admin Plus 购买地址](https://vuejs-core.cn/authorization/)
 
-- [📌 Vue Shop Vite 购买地址](https://vue-admin-beautiful.com/authorization/shop-vite.html)
+- [📌 Vue Shop Vite 购买地址](https://vuejs-core.cn/authorization/shop-vite.html)
 
 ## ✨ Features
 
@@ -52,8 +52,8 @@
 
 ## 📝 声明
 
-- 本项目目前绝大多数源码均源自字节跳动 Arco Design 开源仓库
-- 本项目仅用于个人学习用途
+- 本项目目前绝大多数源码均源自字节跳动 Arco Design 开源仓库，只对布局样式进行简单修改，如需商用建议使用抖音集团 Arco Design Pro 官方授权版本。
+- 本项目仅可用于个人学习用途
 
 ## 🌐 文档地址
 
